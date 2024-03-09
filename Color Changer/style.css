@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.color-button{
+    padding: 10px 20px 10px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+}
+
